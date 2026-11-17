@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>2,624</h3><sub>open ai and machine learning jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-17</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>2,625</h3><sub>open ai and machine learning jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-17</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-17 12:18 UTC</sub>
+<sub>Snapshot 2026-11-17 16:17 UTC</sub>
 
 </div>
 
@@ -50,11 +50,18 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 
 ## Open jobs
 
-**2,624 open ai and machine learning jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-17 12:18 UTC.** Apply links go to the employer's career page or hiring system.
+**2,625 open ai and machine learning jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-17 16:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Forward Deployed AI Engineer | andersonsinc | Maumee, OH |  | 2026-11-17 | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/en-US/theandersonscareers/job/Maumee-OH/Forward-Deployed-AI-Engineer_R12570) |
+| 2027 Machine Learning Engineer Undergrad Intern | aero | 2 Locations |  | 2026-11-17 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineer-Undergrad-Intern_R016667) |
+| 2027 Machine Learning Engineering Graduate Intern | aero | 2 Locations |  | 2026-11-17 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineering-Graduate-Intern_R016432) |
+| Forward Deployed AI Engineer | verizon | 5 Locations |  | 2026-11-17 | [Apply](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Irving-Texas/Forward-Deployed-AI-Engineer_R-1103685-1) |
+| VP Lead AI Engineer | Citi | Tampa Florida United States |  | 2026-11-17 | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/VP-Lead-AI-Engineer_261010592) |
+| Machine Learning Infrastructure Engineer, Technology | Point72 | New York, NY |  | 2026-11-17 | [Apply](https://boards.greenhouse.io/point72/jobs/8945315002?gh_jid=8945315002) |
+| ML Engineer | EVB | Remote, XX |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/EVB/744000162098897) |
 | Lead AI Engineer | bakerhughes | IN-MH-MUMBAI-HIRANANDANI BUSINESS PARK POWAI |  | 2026-11-17 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/IN-MH-MUMBAI-HIRANANDANI-BUSINESS-PARK-POWAI/Lead-AI-Engineer_R166295) |
 | Senior AI Engineer | aloyoga | Beverly Hills LAND, Beverly Hills, CA (HQ-L) |  | 2026-11-17 | [Apply](https://boards.greenhouse.io/aloyoga/jobs/6253648004?gh_jid=6253648004) |
 | Lead AI Engineer | aloyoga | Beverly Hills LAND, Beverly Hills, CA (HQ-L) |  | 2026-11-17 | [Apply](https://boards.greenhouse.io/aloyoga/jobs/6253642004?gh_jid=6253642004) |
@@ -95,7 +102,7 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | Mid-Level AI Engineer | clera | San Francisco |  | 2026-11-15 | [Apply](https://jobs.ashbyhq.com/Clera/41abd2dc-cca2-4369-8e13-44f40c0cb9ac) |
 | Machine Learning Engineer | claylabs | San Francisco |  | 2026-11-14 | [Apply](https://jobs.ashbyhq.com/claylabs/f8d2a754-8ac4-4ba8-9c36-ed56184132a7) |
 | Machine Learning Engineer | arena | SF Bay Area |  | 2026-11-14 | [Apply](https://jobs.ashbyhq.com/arena/2a58c588-e577-447b-9e48-be73a796415d) |
-| E11 Bio - Machine Learning Scientist I/II | convergentresearch | Alameda, CA, Open to Remote |  | 2026-11-13 | [Apply](https://jobs.lever.co/convergentresearch/2d04acd9-f54b-4cae-8751-940155884221) |
+| AI Engineer - US Remote | Maneva | Chicago, Illinois, US |  | 2026-11-13 | [Apply](https://apply.workable.com/j/41832C0BE9) |
 | Senior Agentic AI Engineer/Developer | centene | 3 Locations |  | 2026-11-13 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Senior-Agentic-AI-Engineer-Developer_1671567) |
 | Senior Manager, AI Engineer/ Solutions & Engineering | bristolmyerssquibb | Princeton - NJ - US |  | 2026-11-13 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Princeton---NJ---US/Senior-Manager--AI-Engineer--Solutions---Engineering_R1608179-1) |
 | Principal Forward Deployed AI Engineer | verizon | 5 Locations |  | 2026-11-13 | [Apply](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Principal-Forward-Deployed-AI-Engineer_R-1103673-1) |
@@ -142,7 +149,6 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | Agentic AI Engineering Co-op – Active Noise Cancellation / Fall 2027 | boseallaboutme | US, MA - Framingham |  | 2026-11-11 | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Agentic-AI-Engineering-Co-op---Active-Noise-Cancellation---Fall-2027_R29391) |
 | Associate Manager, Agentic AI Engineer | accenture | Chicago, Accenture Tower, Corp |  | 2026-11-11 | [Apply](https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Chicago-Accenture-Tower-Corp/Associate-Manager--Agentic-AI-Engineer_R00371297) |
 | Principal Data/AI Engineering | att | 2 Locations |  | 2026-11-11 | [Apply](https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/USATXPlano--W-Plano-Pkwy---Adm--Dat2900-W-Plano-Pkwy/Principal-Data-AI-Engineering_R-123056) |
-| Senior Agentic AI Engineer | verizon | 3 Locations |  | 2026-11-11 | [Apply](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Senior-Agentic-AI-Engineer_R-1101071-1) |
 | Director, AI and Machine Learning | amgen | 2 Locations |  | 2026-11-11 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---South-San-Francisco/Director--AI-and-Machine-Learning_R-260526) |
 | Machine Learning Engineer | Vitol | Houston, TX, US |  | 2026-11-11 | [Apply](https://jobs.smartrecruiters.com/Vitol/744000161144378) |
 | Senior Staff AI Engineer | zscaler | Santa Clara, California, USA |  | 2026-11-11 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5278553007) |
@@ -199,12 +205,6 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | Staff Machine Learning Engineer | altanaai | Brooklyn, NY |  | 2026-11-09 | [Apply](https://job-boards.greenhouse.io/altanaai/jobs/8199557003) |
 | Senior Staff Machine Learning Engineer | altanaai | Brooklyn, NY |  | 2026-11-09 | [Apply](https://job-boards.greenhouse.io/altanaai/jobs/8199544003) |
 | Member of the Technical Staff - ML/AI Engineer | Bridge Neurotech | Redwood City |  | 2026-11-09 | [Apply](https://jobs.ashbyhq.com/bridgeneurotech/ff7eeda9-b274-4dc9-a29b-5e8f43835d1e) |
-| CX Machine Learning Engineer | cisco | San Jose, California, US |  | 2026-11-09 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/CX-Machine-Learning-Engineer_2024550) |
-| Senior AI Engineer, Finance AI & Automation | bmo | Chicago, IL, USA |  | 2026-11-09 | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Chicago-IL-USA/Senior-AI-Engineer--Finance-AI---Automation_R260030665) |
-| AI Engineer I/II/III | eqtcorporation | Remote |  | 2026-11-09 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5475011008) |
-| AI Engineer I | repligen | Waltham, MA |  | 2026-11-09 | [Apply](https://repligen.wd108.myworkdayjobs.com/en-US/repligen_careers/job/Waltham-MA/AI-Engineer-I_R-971) |
-| Machine Learning for Computational Sensing Research Intern | analogdevices | US, MA, Boston |  | 2026-11-09 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-MA-Boston/Machine-Learning-for-Computational-Sensing-Research-Intern_R268371) |
-| Manager, Forward-Deployed AI Engineer — AI Mobilization & Transformation | Mastercard | 3 Locations |  | 2026-11-09 | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Purchase-New-York/Manager--Forward-Deployed-AI-Engineer---AI-Mobilization---Transformation_R-295497) |
 <!-- JOBS_TABLE_END -->
 
 <details>
