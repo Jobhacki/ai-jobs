@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>2,670</h3><sub>open ai and machine learning jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-18</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>2,647</h3><sub>open ai and machine learning jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-18</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-18 00:18 UTC</sub>
+<sub>Snapshot 2026-11-18 04:17 UTC</sub>
 
 </div>
 
@@ -50,11 +50,14 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 
 ## Open jobs
 
-**2,670 open ai and machine learning jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-18 00:18 UTC.** Apply links go to the employer's career page or hiring system.
+**2,647 open ai and machine learning jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-18 04:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Lead AI Engineer - NBA | Humana | Remote Nationwide |  | 2026-11-18 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Nationwide/Lead-AI-Engineer---NBA_R-435106) |
+| Founding Machine Learning Engineer | clera | San Francisco |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/Clera/2f031c3a-23e0-4d79-8fde-090fe669cf77) |
+| Staff Applied AI Engineer, Agentic Systems | beaconai | San Carlos - Hybrid |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/beaconai/7a366241-d2aa-47e1-8118-cb0068977d83) |
 | Staff AI Engineer - QA | harriscomputer | 13 Locations |  | 2026-11-18 | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/en-US/htn/job/North-Carolina-United-States/Staff-AI-Engineer---QA_R0475114-6) |
 | Staff AI Engineer - DevOps | harriscomputer | North Carolina, United States |  | 2026-11-18 | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/en-US/htn/job/North-Carolina-United-States/Staff-AI-Engineer---DevOps_R0475111-1) |
 | Senior Deep Learning Engineer | NVIDIA | 3 Locations |  | 2026-11-18 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Engineer_JR2029932) |
@@ -62,6 +65,7 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | Sr Machine Learning Engineer | PayPal | San Jose, California, United States of America |  | 2026-11-18 | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0139028) |
 | Machine Learning Engineer 5 (Senior Manager, IC) | Capital One | 3 Locations |  | 2026-11-18 | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Machine-Learning-Engineer-5--Senior-Manager--IC-_R1005871) |
 | Machine Learning Engineer 5 (Senior Manager, IC) | Capital One | 2 Locations |  | 2026-11-18 | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Machine-Learning-Engineer-5--Senior-Manager--IC-_R1005872-1) |
+| Senior Manager, Machine Learning & AI – Finance | Atoms | San Francisco, CA |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/atoms/jobs/8949393002) |
 | Senior Machine Learning Engineer, Driver Refinement & Validation | Waymo | Mountain View, CA, USA; San Francisco, CA, USA |  | 2026-11-17 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8380137) |
 | Senior Machine Learning Engineer, Maritime Systems (Secret Clearance Eligible) | striveworks | Remote or Austin, Texas, United States |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/striveworks/jobs/8205749003) |
 | Senior Applied AI Engineer | handshake | San Francisco, CA |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/handshake/fc042441-b093-4f16-a308-5c6e8baea669) |
@@ -115,7 +119,6 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | Sr. ML Engineer, Perception | aureliussystems | San Francisco |  | 2026-11-16 | [Apply](https://jobs.ashbyhq.com/aureliussystems/954b94b5-6b27-43cf-b958-e8a0aa3ef9da) |
 | Engineering Manager, Machine Learning | Airbnb | San Francisco, CA |  | 2026-11-16 | [Apply](https://careers.airbnb.com/positions/8393726?gh_jid=8393726) |
 | Machine Learning Engineer | Ford Motor Company | Dearborn, MI, United States |  | 2026-11-15 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73114) |
-| Mid-Level AI Engineer | clera | San Francisco |  | 2026-11-15 | [Apply](https://jobs.ashbyhq.com/Clera/41abd2dc-cca2-4369-8e13-44f40c0cb9ac) |
 | Machine Learning Engineer | claylabs | San Francisco |  | 2026-11-14 | [Apply](https://jobs.ashbyhq.com/claylabs/f8d2a754-8ac4-4ba8-9c36-ed56184132a7) |
 | Machine Learning Engineer | arena | SF Bay Area |  | 2026-11-14 | [Apply](https://jobs.ashbyhq.com/arena/2a58c588-e577-447b-9e48-be73a796415d) |
 | Senior Agentic AI Engineer/Developer | centene | 3 Locations |  | 2026-11-13 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Senior-Agentic-AI-Engineer-Developer_1671567) |
@@ -144,7 +147,6 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | Applied AI Engineer | Visionist, Inc. | Columbia, MD, United States |  | 2026-11-12 | [Apply](https://jobs.jobvite.com/visionist/job/oXV5Afwh) |
 | Applied AI Engineer | Visionist, Inc. | Columbia, MD, United States |  | 2026-11-12 | [Apply](https://jobs.jobvite.com/visionist/job/omW5AfwH) |
 | AI/ML Engineer | Texas Instruments | Richardson, TX, United States |  | 2026-11-12 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019707) |
-| AI Engineer | Senseye | Austin, Texas, US |  | 2026-11-12 | [Apply](https://apply.workable.com/j/56F6BB2046) |
 | Senior Perception Engineer | cat | Irving, Texas |  | 2026-11-12 | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Irving-Texas/Senior-Perception-Engineer_R0000389884) |
 | Agentic AI Engineer | bah | McLean, VA |  | 2026-11-12 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/Agentic-AI-Engineer_R0253372) |
 | AI/ML Engineer | bah | 3 Locations |  | 2026-11-12 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/AI-ML-Engineer_R0253444) |
@@ -157,12 +159,14 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | Sr. Staff AI Engineer | qualified-health-pbc | Palo Alto, CA |  | 2026-11-12 | [Apply](https://jobs.ashbyhq.com/qualified-health-pbc/93b3d143-b1a0-45f2-b729-42d1260296d5) |
 | Senior Machine Learning Engineer Manager | Nubank | Miami |  | 2026-11-12 | [Apply](https://jobs.ashbyhq.com/nubank/567fe5b4-2e96-49cc-b81f-72a83543488d) |
 | AI/ML Engineer | kaizenlabs | New York, NY |  | 2026-11-12 | [Apply](https://jobs.ashbyhq.com/kaizenlabs/9d7babf0-5bf7-4629-9d0c-f2095d4bf749) |
+| Applied AI Engineer | esrtreit | New York, New York, United States |  | 2026-11-12 | [Apply](https://jobs.lever.co/esrtreit/9ec61f1b-1eeb-44c8-8be2-f25167b83267) |
 | Full Stack AI Engineer (.Net) | EXL | United States |  | 2026-11-11 | [Apply](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/19567) |
 | Forward Deployment AI Engineer III (Embedded Solutions) | insperity | Kingwood, TX |  | 2026-11-11 | [Apply](https://insperity.wd12.myworkdayjobs.com/en-US/nsp/job/Kingwood-TX/Forward-Deployment-AI-Engineer-III--Embedded-Solutions-_JR103543) |
 | Agentic AI Engineering Co-op – Active Noise Cancellation / Fall 2027 | boseallaboutme | US, MA - Framingham |  | 2026-11-11 | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Agentic-AI-Engineering-Co-op---Active-Noise-Cancellation---Fall-2027_R29391) |
 | Associate Manager, Agentic AI Engineer | accenture | Chicago, Accenture Tower, Corp |  | 2026-11-11 | [Apply](https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Chicago-Accenture-Tower-Corp/Associate-Manager--Agentic-AI-Engineer_R00371297) |
 | Principal Data/AI Engineering | att | 2 Locations |  | 2026-11-11 | [Apply](https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/USATXPlano--W-Plano-Pkwy---Adm--Dat2900-W-Plano-Pkwy/Principal-Data-AI-Engineering_R-123056) |
 | Director, AI and Machine Learning | amgen | 2 Locations |  | 2026-11-11 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---South-San-Francisco/Director--AI-and-Machine-Learning_R-260526) |
+| Forward Deployed AI Engineer | circadiahealth | El Segundo |  | 2026-11-11 | [Apply](https://jobs.lever.co/circadiahealth/d9a88fe9-df54-4e3c-bda8-74a4923b1102) |
 | Machine Learning Engineer | Vitol | Houston, TX, US |  | 2026-11-11 | [Apply](https://jobs.smartrecruiters.com/Vitol/744000161144378) |
 | Senior Staff AI Engineer | zscaler | Santa Clara, California, USA |  | 2026-11-11 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5278553007) |
 | Forward Deployed AI Engineer | turing | Los Angeles, California, United States |  | 2026-11-11 | [Apply](https://job-boards.greenhouse.io/turing/jobs/6255357004) |
@@ -201,10 +205,6 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | AI Engineering Intern - Summer 2027 | addepar1 | New York, NY |  | 2026-11-10 | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8927543002) |
 | Internship-Co-Op: AI Engineer | asml | San Diego, CA, USA |  | 2026-11-10 | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--AI-Engineer_J-00355629) |
 | Internship- Co-Op: AI Engineer | asml | San Diego, CA, USA |  | 2026-11-10 | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship--Co-Op--AI-Engineer_J-00355628) |
-| Internship- Co-Op: AI Engineer | asml | San Diego, CA, USA |  | 2026-11-10 | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship--Co-Op--Data-Engineer_J-00355627) |
-| AI Engineer // | Mastercard | O'Fallon, Missouri |  | 2026-11-10 | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/AI-Engineer---_R-278791) |
-| Software AI Engineer 4 | Hologic | Marlborough, MA, United States |  | 2026-11-09 | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12743) |
-| Machine Learning Engineer | Netholabs | San Francisco |  | 2026-11-09 | [Apply](https://jobs.ashbyhq.com/netholabs/d4a9d940-54ab-4483-a5b2-cd54ba904021) |
 <!-- JOBS_TABLE_END -->
 
 <details>
