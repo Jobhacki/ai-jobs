@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>2,786</h3><sub>open ai and machine learning jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>2,778</h3><sub>open ai and machine learning jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-23 08:18 UTC</sub>
+<sub>Snapshot 2026-11-23 12:19 UTC</sub>
 
 </div>
 
@@ -50,11 +50,12 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 
 ## Open jobs
 
-**2,786 open ai and machine learning jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 08:18 UTC.** Apply links go to the employer's career page or hiring system.
+**2,778 open ai and machine learning jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 12:19 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Machine Learning Researcher - Seismic Foundation Models | cgg | Houston, United States of America |  | 2026-11-23 | [Apply](https://cgg.wd103.myworkdayjobs.com/en-US/viridiencareers/job/Houston-United-States-of-America/Machine-Learning-Researcher---Seismic-Foundation-Models_JR101586) |
 | Senior/Staff Machine Learning Engineer | civilgrid | Boston |  | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/civilgrid/826f6522-fc4c-4b2c-aac5-45056c9cb88b) |
 | Director, AI Engineering | cisco | San Jose, California, US |  | 2026-11-22 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Director--AI-Engineering_2024315) |
 | Founding Applied AI Engineer | clera | United States |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/Clera/2d1cadd3-9212-46cf-be7d-bb220dad8710) |
@@ -95,6 +96,7 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | Machine Learning Engineer | CVS Health | 2 Locations |  | 2026-11-20 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Machine-Learning-Engineer_R1076448) |
 | Director, AI Engineer - Data ML Platform | Capital One | 5 Locations |  | 2026-11-20 | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Francisco--CA/Director--AI-Engineer---Data-ML-Platform_R1006090-1) |
 | Sr. Generative AI Engineer | Belva Inc | Remote Worker |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680657) |
+| Lead AI Engineer, Platform | ECP | Chicago, Illinois, US |  | 2026-11-19 | [Apply](https://apply.workable.com/j/6AEBB22F78) |
 | AI Engineer II | Honeywell | Atlanta, GA, United States |  | 2026-11-19 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162186) |
 | Machine Learning Modeling Lead - Credit Modeling | EXL | San Francisco, California, United States |  | 2026-11-19 | [Apply](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/22882) |
 | Full-Stack Mobile AI Engineer, InZone | Ford Motor Company | Palo Alto, CA, United States |  | 2026-11-19 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73965) |
@@ -131,7 +133,6 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | Principal AI Engineer | outsystems | US - San Francisco Bay Area |  | 2026-11-19 | [Apply](https://outsystems.wd503.myworkdayjobs.com/en-US/outsystems/job/US---San-Francisco-Bay-Area/Principal-AI-Engineer_R1845) |
 | Senior Lead Machine Learning Engineer , AI Defense (Hybrid) | cisco | Milpitas, California, US |  | 2026-11-19 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Milpitas-California-US/Senior-Lead-Machine-Learning-Engineer---AI-Defense--Hybrid-_2032175) |
 | Full-Stack Mobile AI Engineer, InZone | Ford Motor Company | Redford, MI, United States |  | 2026-11-18 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73891) |
-| Applied AI/ML Engineer | rgi | Springfield, VA |  | 2026-11-18 | [Apply](https://jobs.lever.co/rgi/0bd3bc74-ae97-4400-8eaf-9f93452832f5) |
 | Staff AI Engineer, Internal Tools | rvohealth | Remote- US |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/rvohealth/jobs/4755891005) |
 | Staff AI Engineer, Internal Tools | rvohealth | Minneapolis, MN |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/rvohealth/jobs/4755890005) |
 | Staff AI Engineer, Internal Tools | rvohealth | Charlotte, North Carolina, United States |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/rvohealth/jobs/4753513005) |
@@ -204,7 +205,6 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | Staff Applied Machine Learning Scientist (Identity) | stackadapt | Canada; United States |  | 2026-11-16 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4509494009) |
 | Staff Machine Learning Engineer, Growth | metropolis | Seattle, Washington, United States |  | 2026-11-16 | [Apply](https://job-boards.greenhouse.io/metropolis/jobs/8197897003) |
 | AI Engineer- Assistant Vice President | icapitalnetwork | New York, New York, United States |  | 2026-11-16 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8750491002) |
-| Engineering Manager, Machine Learning - Safety | Discord | San Francisco Bay Area or Remote (U.S.) |  | 2026-11-16 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8761356002) |
 <!-- JOBS_TABLE_END -->
 
 <details>
