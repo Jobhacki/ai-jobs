@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>2,866</h3><sub>open ai and machine learning jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-25</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>2,889</h3><sub>open ai and machine learning jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-25</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-25 16:18 UTC</sub>
+<sub>Snapshot 2026-11-25 20:18 UTC</sub>
 
 </div>
 
@@ -50,11 +50,21 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 
 ## Open jobs
 
-**2,866 open ai and machine learning jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-25 16:18 UTC.** Apply links go to the employer's career page or hiring system.
+**2,889 open ai and machine learning jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-25 20:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| AI Engineer – Generative AI and Agentic Systems | erpa | USA IL Remote |  | 2026-11-25 | [Apply](https://erpa.wd12.myworkdayjobs.com/en-US/erpa/job/USA-IL-Remote/AI-Engineer---Generative-AI-and-Agentic-Systems_R1088) |
+| Principal/Senior AI Engineer - Audio AI: Audio Intelligence for Robotics and Au... | cerence | Remote - USA |  | 2026-11-25 | [Apply](https://cerence.wd5.myworkdayjobs.com/en-US/cerence/job/Remote---USA/Principal-Senior-AI-Engineer---Audio-AI--Audio-Intelligence-for-Robotics-and-Automation_R0006050) |
+| Agentic AI Engineer (AVP) | Citi | 2 Locations |  | 2026-11-25 | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Agentic-AI-Engineer--AVP-_26984351) |
+| Machine Learning Engineer Intern | sambanovasystems | Austin, Texas, United States; San Jose, California, United States |  | 2026-11-25 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271395004) |
+| Senior AI Engineer | rvohealth | Remote- US |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/rvohealth/jobs/4758714005) |
+| Senior AI Engineer | rvohealth | Charlotte, North Carolina, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/rvohealth/jobs/4758717005) |
+| Senior AI Engineer | rvohealth | Minneapolis, MN |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/rvohealth/jobs/4758719005) |
+| Machine Learning Engineer | Intuitive | Sunnyvale, CA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000163734433) |
+| AI Engineer (Visa Sponsorship) | Spherecast | New York City |  | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/spherecast/9025d01d-43ae-46ba-9bca-4d143a6da4ac) |
+| Founding Machine Learning Engineer | clera | San Francisco | $170k-200k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/Clera/df58d473-b3d5-43c2-aaac-dd5ebe3d79f3) |
 | Senior AI/ML Engineer, Vice President | Citi | Irving Texas United States |  | 2026-11-25 | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Senior-AI-ML-Engineer--Vice-President_261009405) |
 | Senior AI Engineer | topsort | Somerville, Massachusetts, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/topsort/jobs/5494383008) |
 | Staff AI/ML Engineer, Edge Intelligence (Perception) | Shield AI | San Diego, CA, US | $200k-300k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/shield/ab4d2813-4dd1-47af-8559-6eb0fdb0ec52) |
@@ -107,7 +117,6 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | AI Engineer, Internal Enablement & Productivity | air | Arlington, Virginia, United States; Pittsburgh, Pennsylvania, United... |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/air/jobs/4519422009) |
 | Principal AI Engineer | brightli | Springfield, MO |  | 2026-11-23 | [Apply](https://brightli.wd5.myworkdayjobs.com/en-US/brightlitalent/job/Springfield-MO/Principal-AI-Engineer_R-23760) |
 | Senior AI Engineering Development Manager | Citi | Jersey City New Jersey United States |  | 2026-11-23 | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Senior-AI-Engineering-Development-Manager_261010019) |
-| AI Engineer | Citi | Jersey City New Jersey United States |  | 2026-11-23 | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/AI-Engineer_261010022) |
 | Senior AI Engineer | Humana | 6 Locations |  | 2026-11-23 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Louisville-KY/Senior-AI-Engineer_R-435160) |
 | Principal Applied AI Engineer / Forward-Deployed Engineer | qualifieddigital | Chicago, Illinois, United States |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/qualifieddigital/jobs/5490954008) |
 | Machine Learning / Data Science Engineer | CapTechConsulting | Richmond, VA, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000163304559) |
@@ -120,7 +129,6 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | Machine Learning Researcher - Seismic Foundation Models | cgg | Houston, United States of America |  | 2026-11-23 | [Apply](https://cgg.wd103.myworkdayjobs.com/en-US/viridiencareers/job/Houston-United-States-of-America/Machine-Learning-Researcher---Seismic-Foundation-Models_JR101586) |
 | Senior/Staff Machine Learning Engineer | civilgrid | Boston | $149.405k-246.123k/yr | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/civilgrid/826f6522-fc4c-4b2c-aac5-45056c9cb88b) |
 | Director, AI Engineering | cisco | San Jose, California, US |  | 2026-11-22 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Director--AI-Engineering_2024315) |
-| Founding Applied AI Engineer | clera | United States | $180k-230k/yr | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/Clera/2d1cadd3-9212-46cf-be7d-bb220dad8710) |
 | Creative AI Engineer | harvey | San Francisco | $168.4k-252.6k/yr | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/harvey/e46d48b8-57c7-401c-be33-f56774dc072d) |
 | Creative AI Engineer | harvey | New York | $168.4k-252.6k/yr | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/harvey/a42047fc-fbd1-4e14-bf10-15207ae2d060) |
 | Robotics Machine Learning Engineer | pantograph | San Francisco | $150k-260k/yr | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/pantograph/36d86a05-ca95-4a1e-876d-08577bf81e7c) |
@@ -129,7 +137,6 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | Staff AI Engineer | CVS Health | GA - Work from home |  | 2026-11-21 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/GA---Work-from-home/Staff-AI-Engineer_R1109422) |
 | Applied AI Engineer | Visionist, Inc. | Columbia, MD, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/visionist/job/oqb8Afw3) |
 | AI Engineer\_Phoenix, AZ | Photon | United States |  | 2026-11-20 | [Apply](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/27537) |
-| Forward Deployed AI Engineer | circadiahealth | Salt Lake City, UT |  | 2026-11-20 | [Apply](https://jobs.lever.co/circadiahealth/00ecec3e-1057-4fd4-8ca7-ab49c83e2141) |
 | Junior AI Engineer | vertexservicepartners | Charlotte, NC 28211 |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/vertexservicepartners/jobs/4517555009) |
 | Senior Manager Forward Deployed AI Engineer | talkdesk2 | Bellevue |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/talkdesk2/jobs/8401303) |
 | Senior Forward Deployed AI Engineer | talkdesk2 | Bellevue |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/talkdesk2/jobs/8401153) |
@@ -189,9 +196,6 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | Principal AI Engineer | outsystems | US - San Francisco Bay Area |  | 2026-11-19 | [Apply](https://outsystems.wd503.myworkdayjobs.com/en-US/outsystems/job/US---San-Francisco-Bay-Area/Principal-AI-Engineer_R1845) |
 | Senior Lead Machine Learning Engineer , AI Defense (Hybrid) | cisco | Milpitas, California, US |  | 2026-11-19 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Milpitas-California-US/Senior-Lead-Machine-Learning-Engineer---AI-Defense--Hybrid-_2032175) |
 | Full-Stack Mobile AI Engineer, InZone | Ford Motor Company | Redford, MI, United States |  | 2026-11-18 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73891) |
-| Staff AI Engineer, Internal Tools | rvohealth | Remote- US |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/rvohealth/jobs/4755891005) |
-| Staff AI Engineer, Internal Tools | rvohealth | Minneapolis, MN |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/rvohealth/jobs/4755890005) |
-| Staff AI Engineer, Internal Tools | rvohealth | Charlotte, North Carolina, United States |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/rvohealth/jobs/4753513005) |
 | Applied AI Engineering Lead | peregrinetechnologies | San Francisco, CA |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4755107005) |
 | 1203 - AI Engineer | gofasti | Remote |  | 2026-11-18 | [Apply](https://careers.gofasti.com/job-application/6265823004?gh_jid=6265823004) |
 | Member of Technical Staff, Annotation UI | Mercor | San Francisco | $250k-400k/yr | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/mercor/c684bdad-93b0-4811-82e5-926457db2daa) |
@@ -201,10 +205,6 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | AI Tutor, Chemistry - Temporary | xai | Remote US; Remote, International |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5298892007) |
 | AI Tutor, Biology - Temporary | xai | Remote, International |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5298891007) |
 | Staff AI Engineer | nextiva | United States, Remote |  | 2026-11-18 | [Apply](https://www.nextiva.com/company/careers-listing?gh_jid=8950253002) |
-| Senior Machine Learning Engineer - Search | nextdoor | Dallas, TX |  | 2026-11-18 | [Apply](https://about.nextdoor.com/careers-list/?gh_jid=8399912) |
-| Senior Machine Learning Engineer - Search | nextdoor | US Remote |  | 2026-11-18 | [Apply](https://about.nextdoor.com/careers-list/?gh_jid=8399906) |
-| Senior Machine Learning Scientist, Applied Causal Inference | DoorDash USA | San Francisco, CA; Sunnyvale, CA; Seattle, WA |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8399363) |
-| AI Advisory Director, Data and AI Engineering Solutions | AECOM | New York, NY, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162374229) |
 <!-- JOBS_TABLE_END -->
 
 <details>
