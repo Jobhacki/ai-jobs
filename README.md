@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>2,921</h3><sub>open ai and machine learning jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>2,911</h3><sub>open ai and machine learning jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-26 16:18 UTC</sub>
+<sub>Snapshot 2026-11-26 20:19 UTC</sub>
 
 </div>
 
@@ -50,18 +50,21 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 
 ## Open jobs
 
-**2,921 open ai and machine learning jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 16:18 UTC.** Apply links go to the employer's career page or hiring system.
+**2,911 open ai and machine learning jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 20:19 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Senior ML Engineer, Perception | clera | San Francisco | $190k-222k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Clera/57a448e8-ca0c-4eef-886c-c6946a9e65a6) |
 | Sr Manager, AI Engineering - Agent Factory | Workday | USA, CA, Pleasanton |  | 2026-11-26 | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Sr-Manager--AI-Engineering---Agent-Factory_JR-0111915) |
 | AI Engineer, AI/ML and Agent Harnessing (New Grad, 2027) | Scout AI | Sunnyvale, CA | $135k-190k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed) |
 | Mid-Level AI Engineer | clera | United States | $150k-180k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Clera/0a32c932-89f1-414a-8bac-cb74056dbd20) |
 | Senior Machine Learning Engineer, User Simulation and Advanced Synthetic Data G... | NVIDIA | 6 Locations |  | 2026-11-26 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Machine-Learning-Engineer--User-Simulation-and-Advanced-Synthetic-Data-Generation_JR2030505) |
+| Senior AI/ML Engineer | Weekday AI | San Francisco, California, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/FB21BA3B77) |
+| Machine Learning Researcher | Ayo Semiconductor | Boston |  | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/ayosemi/25ce1f36-356a-4a0e-95e0-24c3babb34ff) |
+| Machine Learning Engineer | Ayo Semiconductor | Boston |  | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/ayosemi/cc1d3968-2b15-4442-828c-7950077c3a8a) |
 | Senior Machine Learning Engineer – Verve for Advertisers (VFA) | verve | Worldwide - remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/verve/jobs/8958270002) |
 | Applied AI Engineer | deepintent | New York, New York |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/deepintent/jobs/6268434004) |
-| Applied AI Engineering Lead | tripactions | New York, NY |  | 2026-11-25 | [Apply](https://navan.com/careers/openings?gh_jid=8415648) |
 | Machine Learning Engineer II | Rocket Lab Corporation | Tucson, AZ |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8034400003) |
 | GTM AI Engineer | LaunchDarkly | Remote - US |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/8217232003) |
 | Senior Engineer, AI Engineering (R5450) | Shield AI | Remote | $163.2k-244.8k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/shield/57573966-97d3-4831-ad54-d77b29628f4d) |
@@ -79,7 +82,6 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | Senior AI Engineer | topsort | Somerville, Massachusetts, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/topsort/jobs/5494383008) |
 | Staff AI/ML Engineer, Edge Intelligence (Perception) | Shield AI | San Diego, CA, US | $200k-300k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/shield/ab4d2813-4dd1-47af-8559-6eb0fdb0ec52) |
 | Senior Perception Engineer, Obstacle Foundation Models - Autonomous Vehicles | NVIDIA | US, CA, Santa Clara |  | 2026-11-25 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Perception-Engineer--Obstacle-Foundation-Models---Autonomous-Vehicles_JR2030543-1) |
-| Founding AI/ML Engineer | clera | San Jose | $200k-400k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/Clera/a85e66e9-d00e-48b5-8d14-5968111bc748) |
 | AI Engineer | Howmet Aerospace | Pittsburgh, PA, United States |  | 2026-11-24 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120703) |
 | AI Engineer - Scientific Intelligence and LLM Systems | Avery Dennison | Mentor, OH, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000163552489) |
 | Lead AI Engineer - Advanced AI (Gen AI, LLM Ops, Applied ML, ML Ops) | Target | 2 Locations |  | 2026-11-24 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Lead-AI-Engineer---Advanced-AI--Gen-AI--LLM-Ops--Applied-ML--ML-Ops-_R0000481265) |
@@ -113,6 +115,7 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | Internship/Co-Op: AI Engineer | asml | San Diego, CA, USA |  | 2026-11-24 | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--AI-Engineer_J-00358475) |
 | Internship/Co-Op: AI Engineer | asml | San Jose, CA, USA |  | 2026-11-24 | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship-Co-Op--AI-Engineer_J-00358477) |
 | Machine Learning Engineer - Incubation | Adobe | 2 Locations |  | 2026-11-24 | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Machine-Learning-Engineer---Incubation_R173801) |
+| Machine Learning Engineer, AI Expert | Weekday AI | US |  | 2026-11-23 | [Apply](https://apply.workable.com/j/E2B2070BCC) |
 | AI Engineer | Ford Motor Company | Dearborn, MI, United States |  | 2026-11-23 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74499) |
 | Machine Learning Engineer | PayPal | San Jose, California, United States of America |  | 2026-11-23 | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer_R0139248-1) |
 | Staff Machine Learning Engineer | PayPal | San Jose, California, United States of America |  | 2026-11-23 | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Machine-Learning-Engineer_R0139247-1) |
@@ -153,7 +156,6 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | Senior Manager, Applied AI & Machine Learning | Virta Health | San Francisco, CA |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/virtahealth/4c0afc79-889c-4dde-82e3-a7d238582017) |
 | Principal AI Engineer | gallatin | El Segundo, CA | $240k-310k/yr | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/gallatin/be929528-505b-4ce7-89bf-e0a7b196bd9a) |
 | Machine Learning Engineer | Workday | USA, CA, Pleasanton |  | 2026-11-20 | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Machine-Learning-Engineer_JR-0111548) |
-| AI Engineer - Agent Infrastructure & AI Workflow | TribalScale | Remote USA |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/tribalscale/jobs/4731215006) |
 | Senior AI Engineer | HubSpot | Remote - USA |  | 2026-11-20 | [Apply](https://www.hubspot.com/careers/jobs/8208410?gh_jid=8208410) |
 | AI Engineer | catchcreationllc | US |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/catchcreationllc/jobs/4517004009) |
 | AI Engineering Advisor | Blue Sky Innovators | Chantilly, VA |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/blueskyinnovators/jobs/5490916008) |
@@ -174,6 +176,7 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | Machine Learning Modeling Lead - Credit Modeling | EXL | San Francisco, California, United States |  | 2026-11-19 | [Apply](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/22882) |
 | Full-Stack Mobile AI Engineer, InZone | Ford Motor Company | Palo Alto, CA, United States |  | 2026-11-19 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73965) |
 | Finance AI Engineering Intern - Summer 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Finance-AI-Engineering-Intern---Summer-2027_JR2029131) |
+| Finance AI Engineer | veeamsoftware | Remote, United States |  | 2026-11-19 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5039547101) |
 | Principal Engineer, LLM | upstart | United States / Remote |  | 2026-11-19 | [Apply](https://careers.upstart.com/jobs?gh_jid=8397201) |
 | Staff Machine Learning Engineer, Ads Lightweight Ranking | Pinterest | San Francisco, CA, US; Remote, US |  | 2026-11-19 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8354411) |
 | Intern, AI & Data (Applied AI/Machine Learning), Summer 2027 | lucidmotors | Newark, CA |  | 2026-11-19 | [Apply](https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007) |
@@ -202,9 +205,6 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | SAR Image Annotation Consultant | iceye | Remote |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/iceye/49c3a146-6898-4a20-ae58-5c6bf3cab38b) |
 | Principal AI Engineer | outsystems | US - San Francisco Bay Area |  | 2026-11-19 | [Apply](https://outsystems.wd503.myworkdayjobs.com/en-US/outsystems/job/US---San-Francisco-Bay-Area/Principal-AI-Engineer_R1845) |
 | Senior Lead Machine Learning Engineer , AI Defense (Hybrid) | cisco | Milpitas, California, US |  | 2026-11-19 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Milpitas-California-US/Senior-Lead-Machine-Learning-Engineer---AI-Defense--Hybrid-_2032175) |
-| Full-Stack Mobile AI Engineer, InZone | Ford Motor Company | Redford, MI, United States |  | 2026-11-18 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73891) |
-| Applied AI Engineering Lead | peregrinetechnologies | San Francisco, CA |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4755107005) |
-| 1203 - AI Engineer | gofasti | Remote |  | 2026-11-18 | [Apply](https://careers.gofasti.com/job-application/6265823004?gh_jid=6265823004) |
 <!-- JOBS_TABLE_END -->
 
 <details>
