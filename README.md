@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>2,890</h3><sub>open ai and machine learning jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>2,921</h3><sub>open ai and machine learning jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-26 12:18 UTC</sub>
+<sub>Snapshot 2026-11-26 16:18 UTC</sub>
 
 </div>
 
@@ -50,7 +50,7 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 
 ## Open jobs
 
-**2,890 open ai and machine learning jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 12:18 UTC.** Apply links go to the employer's career page or hiring system.
+**2,921 open ai and machine learning jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 16:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
@@ -59,6 +59,7 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | AI Engineer, AI/ML and Agent Harnessing (New Grad, 2027) | Scout AI | Sunnyvale, CA | $135k-190k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed) |
 | Mid-Level AI Engineer | clera | United States | $150k-180k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Clera/0a32c932-89f1-414a-8bac-cb74056dbd20) |
 | Senior Machine Learning Engineer, User Simulation and Advanced Synthetic Data G... | NVIDIA | 6 Locations |  | 2026-11-26 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Machine-Learning-Engineer--User-Simulation-and-Advanced-Synthetic-Data-Generation_JR2030505) |
+| Senior Machine Learning Engineer – Verve for Advertisers (VFA) | verve | Worldwide - remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/verve/jobs/8958270002) |
 | Applied AI Engineer | deepintent | New York, New York |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/deepintent/jobs/6268434004) |
 | Applied AI Engineering Lead | tripactions | New York, NY |  | 2026-11-25 | [Apply](https://navan.com/careers/openings?gh_jid=8415648) |
 | Machine Learning Engineer II | Rocket Lab Corporation | Tucson, AZ |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8034400003) |
@@ -173,7 +174,6 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | Machine Learning Modeling Lead - Credit Modeling | EXL | San Francisco, California, United States |  | 2026-11-19 | [Apply](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/22882) |
 | Full-Stack Mobile AI Engineer, InZone | Ford Motor Company | Palo Alto, CA, United States |  | 2026-11-19 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73965) |
 | Finance AI Engineering Intern - Summer 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Finance-AI-Engineering-Intern---Summer-2027_JR2029131) |
-| Finance AI Engineer | veeamsoftware | Remote, United States |  | 2026-11-19 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5039547101) |
 | Principal Engineer, LLM | upstart | United States / Remote |  | 2026-11-19 | [Apply](https://careers.upstart.com/jobs?gh_jid=8397201) |
 | Staff Machine Learning Engineer, Ads Lightweight Ranking | Pinterest | San Francisco, CA, US; Remote, US |  | 2026-11-19 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8354411) |
 | Intern, AI & Data (Applied AI/Machine Learning), Summer 2027 | lucidmotors | Newark, CA |  | 2026-11-19 | [Apply](https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007) |
@@ -202,9 +202,9 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | SAR Image Annotation Consultant | iceye | Remote |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/iceye/49c3a146-6898-4a20-ae58-5c6bf3cab38b) |
 | Principal AI Engineer | outsystems | US - San Francisco Bay Area |  | 2026-11-19 | [Apply](https://outsystems.wd503.myworkdayjobs.com/en-US/outsystems/job/US---San-Francisco-Bay-Area/Principal-AI-Engineer_R1845) |
 | Senior Lead Machine Learning Engineer , AI Defense (Hybrid) | cisco | Milpitas, California, US |  | 2026-11-19 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Milpitas-California-US/Senior-Lead-Machine-Learning-Engineer---AI-Defense--Hybrid-_2032175) |
-| DevOps Machine Learning Infrastructure | Syntiant | Redwood City, California, US |  | 2026-11-18 | [Apply](https://apply.workable.com/j/802EC5CBAB) |
 | Full-Stack Mobile AI Engineer, InZone | Ford Motor Company | Redford, MI, United States |  | 2026-11-18 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73891) |
 | Applied AI Engineering Lead | peregrinetechnologies | San Francisco, CA |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4755107005) |
+| 1203 - AI Engineer | gofasti | Remote |  | 2026-11-18 | [Apply](https://careers.gofasti.com/job-application/6265823004?gh_jid=6265823004) |
 <!-- JOBS_TABLE_END -->
 
 <details>
