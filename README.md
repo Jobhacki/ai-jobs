@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-ai-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-ai-jobs-light.svg"><img alt="AI and machine learning jobs: JobHacki job list, last updated on Nov 25, 2026" src="assets/dist/hero-ai-jobs-dark.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-ai-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-ai-jobs-light.svg"><img alt="AI and machine learning jobs: JobHacki job list, last updated on Nov 26, 2026" src="assets/dist/hero-ai-jobs-dark.svg" width="100%"></picture>
 
 <a href="#open-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/btn-primary-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/btn-primary-light.svg"><img alt="See the jobs" src="assets/dist/btn-primary-dark.svg" width="340"></picture></a>
 
@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>2,889</h3><sub>open ai and machine learning jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-25</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>2,889</h3><sub>open ai and machine learning jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-25 20:18 UTC</sub>
+<sub>Snapshot 2026-11-26 00:19 UTC</sub>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 **Hi, I'm Sophia, JobHacki's AI assistant. Pick a list, inspect a role, and follow its employer link.**
 
-For ML engineers, AI researchers, and applied AI builders, this list is a fresh slice of AI and machine learning jobs taken from employers' own hiring systems. Updated Nov 25, 2026.
+For ML engineers, AI researchers, and applied AI builders, this list is a fresh slice of AI and machine learning jobs taken from employers' own hiring systems. Updated Nov 26, 2026.
 
 [Back to all 12 lists](https://github.com/Jobhacki/jobs)
 
@@ -50,11 +50,16 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 
 ## Open jobs
 
-**2,889 open ai and machine learning jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-25 20:18 UTC.** Apply links go to the employer's career page or hiring system.
+**2,889 open ai and machine learning jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 00:19 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Senior Machine Learning Engineer, User Simulation and Advanced Synthetic Data G... | NVIDIA | 6 Locations |  | 2026-11-26 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Machine-Learning-Engineer--User-Simulation-and-Advanced-Synthetic-Data-Generation_JR2030505) |
+| Applied AI Engineering Lead | tripactions | New York, NY |  | 2026-11-25 | [Apply](https://navan.com/careers/openings?gh_jid=8415648) |
+| Machine Learning Engineer II | Rocket Lab Corporation | Tucson, AZ |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8034400003) |
+| GTM AI Engineer | LaunchDarkly | Remote - US |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/8217232003) |
+| Senior Engineer, AI Engineering (R5450) | Shield AI | Remote | $163.2k-244.8k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/shield/57573966-97d3-4831-ad54-d77b29628f4d) |
 | AI Engineer – Generative AI and Agentic Systems | erpa | USA IL Remote |  | 2026-11-25 | [Apply](https://erpa.wd12.myworkdayjobs.com/en-US/erpa/job/USA-IL-Remote/AI-Engineer---Generative-AI-and-Agentic-Systems_R1088) |
 | Principal/Senior AI Engineer - Audio AI: Audio Intelligence for Robotics and Au... | cerence | Remote - USA |  | 2026-11-25 | [Apply](https://cerence.wd5.myworkdayjobs.com/en-US/cerence/job/Remote---USA/Principal-Senior-AI-Engineer---Audio-AI--Audio-Intelligence-for-Robotics-and-Automation_R0006050) |
 | Agentic AI Engineer (AVP) | Citi | 2 Locations |  | 2026-11-25 | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Agentic-AI-Engineer--AVP-_26984351) |
@@ -70,6 +75,7 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | Staff AI/ML Engineer, Edge Intelligence (Perception) | Shield AI | San Diego, CA, US | $200k-300k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/shield/ab4d2813-4dd1-47af-8559-6eb0fdb0ec52) |
 | Senior Perception Engineer, Obstacle Foundation Models - Autonomous Vehicles | NVIDIA | US, CA, Santa Clara |  | 2026-11-25 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Perception-Engineer--Obstacle-Foundation-Models---Autonomous-Vehicles_JR2030543-1) |
 | Founding AI/ML Engineer | clera | San Jose | $200k-400k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/Clera/a85e66e9-d00e-48b5-8d14-5968111bc748) |
+| Senior AI/ML Engineer | Node.Digital | Herndon, Virginia, US |  | 2026-11-24 | [Apply](https://apply.workable.com/j/3790674E75) |
 | AI Engineer | Howmet Aerospace | Pittsburgh, PA, United States |  | 2026-11-24 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120703) |
 | AI Engineer - Scientific Intelligence and LLM Systems | Avery Dennison | Mentor, OH, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000163552489) |
 | Founding AI Engineer | clera | San Jose | $200k-400k/yr | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/Clera/e43a059d-73de-41c4-9569-1cd73f6f6693) |
@@ -195,16 +201,10 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | SAR Image Annotation Consultant | iceye | Remote |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/iceye/49c3a146-6898-4a20-ae58-5c6bf3cab38b) |
 | Principal AI Engineer | outsystems | US - San Francisco Bay Area |  | 2026-11-19 | [Apply](https://outsystems.wd503.myworkdayjobs.com/en-US/outsystems/job/US---San-Francisco-Bay-Area/Principal-AI-Engineer_R1845) |
 | Senior Lead Machine Learning Engineer , AI Defense (Hybrid) | cisco | Milpitas, California, US |  | 2026-11-19 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Milpitas-California-US/Senior-Lead-Machine-Learning-Engineer---AI-Defense--Hybrid-_2032175) |
+| Intelligent Automation/AI-ML Engineer (Full Stack Engineer) | Node.Digital | Herndon, Virginia, US |  | 2026-11-18 | [Apply](https://apply.workable.com/j/C876C8C567) |
 | Full-Stack Mobile AI Engineer, InZone | Ford Motor Company | Redford, MI, United States |  | 2026-11-18 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73891) |
 | Applied AI Engineering Lead | peregrinetechnologies | San Francisco, CA |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4755107005) |
 | 1203 - AI Engineer | gofasti | Remote |  | 2026-11-18 | [Apply](https://careers.gofasti.com/job-application/6265823004?gh_jid=6265823004) |
-| Member of Technical Staff, Annotation UI | Mercor | San Francisco | $250k-400k/yr | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/mercor/c684bdad-93b0-4811-82e5-926457db2daa) |
-| Staff Applied AI Engineer | a3c41b8b71eff8c4 | Austin, Texas |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/8208839003) |
-| Senior Deep Learning Scientist, AI Security | NVIDIA | 2 Locations |  | 2026-11-18 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Scientist--AI-Security_JR2029324) |
-| AI Tutor, Medicine - Temporary | xai | Remote US; Remote, International |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5298893007) |
-| AI Tutor, Chemistry - Temporary | xai | Remote US; Remote, International |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5298892007) |
-| AI Tutor, Biology - Temporary | xai | Remote, International |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5298891007) |
-| Staff AI Engineer | nextiva | United States, Remote |  | 2026-11-18 | [Apply](https://www.nextiva.com/company/careers-listing?gh_jid=8950253002) |
 <!-- JOBS_TABLE_END -->
 
 <details>
