@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>2,889</h3><sub>open ai and machine learning jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>2,868</h3><sub>open ai and machine learning jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-27 04:17 UTC</sub>
+<sub>Snapshot 2026-11-27 08:17 UTC</sub>
 
 </div>
 
@@ -50,7 +50,7 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 
 ## Open jobs
 
-**2,889 open ai and machine learning jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**2,868 open ai and machine learning jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 08:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
@@ -84,7 +84,6 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | AI Engineer | Howmet Aerospace | Pittsburgh, PA, United States |  | 2026-11-24 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120703) |
 | AI Engineer - Scientific Intelligence and LLM Systems | Avery Dennison | Mentor, OH, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000163552489) |
 | Lead AI Engineer - Advanced AI (Gen AI, LLM Ops, Applied ML, ML Ops) | Target | 2 Locations |  | 2026-11-24 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Lead-AI-Engineer---Advanced-AI--Gen-AI--LLM-Ops--Applied-ML--ML-Ops-_R0000481265) |
-| Senior Forward Deployed AI Engineer (Claude, AWS), NYC / SF Bay Area | provectus | New York, New York |  | 2026-11-24 | [Apply](https://jobs.lever.co/provectus/66d0d31f-c7b0-4ad6-a74d-39ab8fc4db66) |
 | Machine Learning Engineer | Nubank | Virginia |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/nubank/03eb3439-68a5-44fb-b42d-a12e44f6357c) |
 | Associate Director AI Engineering - Operations | AbbVie | North Chicago, IL, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017074706) |
 | Forward Deployed AI Engineer | procore | US - Texas - Austin |  | 2026-11-24 | [Apply](https://procore.wd12.myworkdayjobs.com/en-US/procore_external_careers/job/US---Texas---Austin/Forward-Deployed-AI-Engineer_R0019158-1) |
@@ -118,7 +117,6 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | AI Engineer | Ford Motor Company | Dearborn, MI, United States |  | 2026-11-23 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74499) |
 | Machine Learning Engineer | PayPal | San Jose, California, United States of America |  | 2026-11-23 | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer_R0139248-1) |
 | Staff Machine Learning Engineer | PayPal | San Jose, California, United States of America |  | 2026-11-23 | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Machine-Learning-Engineer_R0139247-1) |
-| Senior Forward Deployed AI Engineer / Solutions Architect (GenAI, AWS) | provectus | New York, New York |  | 2026-11-23 | [Apply](https://jobs.lever.co/provectus/aa7c9d45-9691-4b09-b531-85bd0071d2a7) |
 | 1206 - Mid AI Engineer | gofasti | Remote |  | 2026-11-23 | [Apply](https://careers.gofasti.com/job-application/6269309004?gh_jid=6269309004) |
 | 2027 Spring/Summer Intern, Computer Vision | samsungresearchamericainternship | 665 Clyde Avenue, Mountain View, CA, USA |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8955802002) |
 | Forward Deployment AI Engineer | lyratechgroup | New York City, NY |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/lyratechgroup/jobs/5493113008) |
@@ -205,6 +203,8 @@ For ML engineers, AI researchers, and applied AI builders, this list is a fresh 
 | AI Trainer - Internal Medicine Doctor - Japan | prolificacademicltd | Remote |  | 2026-11-19 | [Apply](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5042313101) |
 | SAR Image Annotation Consultant | iceye | Remote |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/iceye/49c3a146-6898-4a20-ae58-5c6bf3cab38b) |
 | Principal AI Engineer | outsystems | US - San Francisco Bay Area |  | 2026-11-19 | [Apply](https://outsystems.wd503.myworkdayjobs.com/en-US/outsystems/job/US---San-Francisco-Bay-Area/Principal-AI-Engineer_R1845) |
+| Senior Lead Machine Learning Engineer , AI Defense (Hybrid) | cisco | Milpitas, California, US |  | 2026-11-19 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Milpitas-California-US/Senior-Lead-Machine-Learning-Engineer---AI-Defense--Hybrid-_2032175) |
+| Full-Stack Mobile AI Engineer, InZone | Ford Motor Company | Redford, MI, United States |  | 2026-11-18 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73891) |
 <!-- JOBS_TABLE_END -->
 
 <details>
